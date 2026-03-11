@@ -32,10 +32,15 @@ __Tópico__
 ### _Títulos_
 #### _Títulos_
 ##### _Títulos_
+---
+**_Marque a opção CORRETA_**
 
+## ✅ Marque as tarefas que você já finalizou hoje:
 
-
-
+- [x] Criar a página principal
+- [ ] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] Receber pagamento
 
 
 
