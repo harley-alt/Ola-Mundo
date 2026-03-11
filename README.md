@@ -18,6 +18,23 @@ __Tópico__
 * - [ ] Tópico3 *~~testes e testes~~*
 * - [ ] Tópico4 *~~testes e testes~~*
 --- ---
+**_Opção_**
+
+* A. [x] item 1
+* B [ ] item 2
+* C [ ] item 3
+* D [ ] item 4
+***
+
+**_Nível de Títulos_**
+# _Títulos_
+## _Títulos_
+### _Títulos_
+#### _Títulos_
+##### _Títulos_
+
+
+
 
 
 
