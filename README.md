@@ -41,7 +41,10 @@ __Tópico__
 - [ ] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
+- [ ] Receber notas
 
-
-
+|Num  | Nome | Nota|
+|---|---|---|
+| 1 | Harley | 8.5 |
+| 2 | Edson | 7.5 |
         
