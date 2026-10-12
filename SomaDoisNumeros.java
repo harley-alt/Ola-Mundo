@@ -9,7 +9,7 @@ public class SomaDoisNumeros {
 
         System.out.println("Digite o segundo número:");
         double num2 = teclado.nextDouble();
-
+ 
         double soma =  num1 + num2;
         
         System.out.println("A soma de " + num1 + " + " + num2 + " é = " + soma);
